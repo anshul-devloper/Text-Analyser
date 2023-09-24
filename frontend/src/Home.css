@@ -1,0 +1,81 @@
+.bigContainer {
+  width: 50vw;
+  height: 25vh;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(231, 231, 231);
+  padding: 1vmax;
+  margin: 2vmax auto;
+  flex-direction: column;
+}
+
+.uploadBtn {
+  border: none;
+  background-color: tomato;
+  color: white;
+  font: 300 1vmax "Roboto";
+  width: 10vmax;
+  padding: 0.8vmax;
+  cursor: pointer;
+  transition: all 0.5s;
+  border-radius: 4px;
+  outline: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.219);
+  margin: 1vmax;
+}
+
+.fileBtn {
+  border: none;
+  color: #181515;
+  font: 300 1vmax "Roboto";
+  width: 15vmax;
+  padding: 0.8vmax;
+  cursor: pointer;
+  transition: all 0.5s;
+  border-radius: 4px;
+  outline: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.219);
+}
+
+.smallContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.smallContainerSpan {
+  font-family: Roboto;
+  font-size: 0.9vmax;
+  padding: 1vmax;
+  color: rgb(0, 0, 0, 0.7);
+  padding-left: 0;
+}
+
+.analyzeBtn {
+  color: #fff;
+  width: 50vw;
+  background-color: yellow;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  font: 300 2vmax "Roboto";
+  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+  text-align: center;
+}
+
+.success {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.success h1 {
+  color: #232121;
+  font: 600 1vmax "Roboto";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

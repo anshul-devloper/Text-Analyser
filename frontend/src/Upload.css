@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  margin: 2vmax auto;
+  width: 80vw;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.search {
+  border-bottom: 0.2rem solid;
+  padding: 1rem;
+  min-width: 40rem;
+  font-size: 2rem;
+  text-transform: capitalize;
+}

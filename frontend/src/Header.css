@@ -1,0 +1,26 @@
+.homeHeading {
+  text-align: center;
+  font-family: Roboto;
+  font-size: 1.4vmax;
+  border-bottom: 1px solid rgba(21, 21, 21, 0.5);
+  width: 20vmax;
+  padding: 1vmax;
+  margin: 2vmax auto;
+  color: rgb(0, 0, 0, 0.7);
+}
+
+.heading {
+  color: #232121;
+  font: 600 5vmax "Roboto";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headings {
+  color: #232121;
+  font: 600 3vmax "Roboto";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
