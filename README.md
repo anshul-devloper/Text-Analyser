@@ -6,6 +6,10 @@
 #### ● Basic validations for 5mb file size and for .txt file format and don’t allow file upload before validation.
 #### ● Processing of file in backend.
 #### ● Efficient logic for saving and retrieving data.
+#### ● Handling scenarios where a file is empty or no word found.
+#### ● Optimize logic using different DSA.
+#### ● Responsive Design across multiple devices like laptop, mobile, tablet, etc.
+
 
 <br><br>
 
