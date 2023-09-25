@@ -13,7 +13,11 @@
 
 <br><br>
 
-## PROJECT VIDEO
+## PROJECT VIDEO :
+
+https://github.com/anshul-devloper/Text-Analyser/assets/89250504/e7a258c8-c318-4273-8513-0b1f87a292da
+
+<br><br>
 
 ## HOME Page : 
 
