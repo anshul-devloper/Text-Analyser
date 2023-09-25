@@ -2,6 +2,8 @@
   Text-Analyser
 </h1>
 
+https://github.com/anshul-devloper/Text-Analyser/assets/89250504/c22f3d7f-31c9-40a1-a3e3-3bb9fcbc27ce
+
 #### ● File upload and Searching of keywords from API.
 #### ● Basic validations for 5mb file size and for .txt file format and don’t allow file upload before validation.
 #### ● Processing of file in backend.
