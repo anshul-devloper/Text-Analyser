@@ -3,10 +3,10 @@
 </h1>
 <br/>
 
-● File upload and Searching of keywords from API.
-● Basic validations for 5mb file size and for .txt file format and don’t allow file upload before validation.
-● Processing of file in backend.
-● Efficient logic for saving and retrieving data.
+#### ● File upload and Searching of keywords from API.
+#### ● Basic validations for 5mb file size and for .txt file format and don’t allow file upload before validation.
+#### ● Processing of file in backend.
+#### ● Efficient logic for saving and retrieving data.
 
 
 ## HOME Page : 
