@@ -1,5 +1,5 @@
-<p align="center">
-# Text-Analyser
+<p align="center" width ="100" height ="100">
+  Text-Analyser
 </p>
 
 ## HOME Page : 
