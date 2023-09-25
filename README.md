@@ -1,4 +1,6 @@
+<p align="center">
 # Text-Analyser
+</p>
 
 ## HOME Page : 
 
