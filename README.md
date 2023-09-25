@@ -1,6 +1,6 @@
-<p align="center" width ="100" height ="100">
+<h1 align="center" >
   Text-Analyser
-</p>
+</h1>
 <br/>
 
 ## HOME Page : 
