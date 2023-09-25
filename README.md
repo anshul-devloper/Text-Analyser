@@ -10,8 +10,7 @@
 #### ● Optimize logic using different DSA.
 #### ● Responsive Design across multiple devices like laptop, mobile, tablet, etc.
 
-
-<br><br>
+<br>
 
 ## PROJECT VIDEO :
 
