@@ -1,7 +1,6 @@
 <h1 align="center" >
   Text-Analyser
 </h1>
-<br/>
 
 #### ● File upload and Searching of keywords from API.
 #### ● Basic validations for 5mb file size and for .txt file format and don’t allow file upload before validation.
