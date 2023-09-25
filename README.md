@@ -10,8 +10,6 @@
 #### ● Optimize logic using different DSA.
 #### ● Responsive Design across multiple devices like laptop, mobile, tablet, etc.
 
-<br>
-
 ## PROJECT VIDEO :
 
 https://github.com/anshul-devloper/Text-Analyser/assets/89250504/e7a258c8-c318-4273-8513-0b1f87a292da
