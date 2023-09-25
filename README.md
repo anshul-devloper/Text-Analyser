@@ -39,3 +39,8 @@ https://github.com/anshul-devloper/Text-Analyser/assets/89250504/c0d14d32-4c0e-4
 ![screenshot (25)](https://github.com/anshul-devloper/Text-Analyser/assets/89250504/bef7566c-c195-4a4c-acee-2d0f5f26bdf2)
 ### 4.
 ![screenshot (26)](https://github.com/anshul-devloper/Text-Analyser/assets/89250504/f221f0c6-fa93-4d3a-b075-9e42f56d1712)
+ 
+## how to set up the project :
+#### Install Dependencies :
+##### For Backend - npm i
+##### For Frontend - cd frontend  npm i
